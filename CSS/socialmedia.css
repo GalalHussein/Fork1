@@ -175,7 +175,8 @@ height: 370px;
  position: absolute;
  left:25%;
 top: 590px;
-border: 2px solid var(--text1-color);
+border: 2px solid white;
+z-index: 200;
 }
 #cap{
 width: 380px;
